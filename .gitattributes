@@ -1,1 +1,2 @@
-Merged_Dataset.csv filter=lfs diff=lfs merge=lfs -text
+Dataset/**/*.csv filter=lfs diff=lfs merge=lfs -text
+Dataset/**/*.xlsx filter=lfs diff=lfs merge=lfs -text
